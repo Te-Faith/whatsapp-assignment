@@ -1,0 +1,40 @@
+
+
+.header{
+    display: flex;
+    background-color:rgb(156, 150, 150);
+    gap: 12px;
+    
+}
+
+.header li{
+    display: flex;
+    padding: 2px;
+    align-items: flex-end;
+    justify-items: flex-end;
+    justify-content: flex-end;
+    justify-self: flex-end;
+    height: 42px;
+    width: 30px ;
+    flex-direction: column;
+
+}
+
+
+div{
+    background-color:black ;
+    color: white;
+    padding: 2px;
+    
+}
+
+li{
+display: flex;
+}
+
+.image{
+    padding: 2px;
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+}
